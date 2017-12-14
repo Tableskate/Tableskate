@@ -1,4 +1,4 @@
 # Tableskate
 Tableskate
 
-http://www.tableskate.com
+Visit the official tableskating website here -> http://www.tableskate.com
