@@ -1,5 +1,7 @@
 {
+    "name": "tableskate/tableskate",
+    "description": "tableskate is going to change the game one day.",
     "require": {
-        "tableskate/tableskate": "1.0.*"
+        "php": "^5.3.3 || ^7.0",
     }
 }
